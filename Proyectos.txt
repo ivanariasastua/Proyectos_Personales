@@ -1,0 +1,23 @@
+Proyectos por hacer
+
+- Graficador de funciones c++
+- Waze c++
+
+- Kiosco Java
+- Museo Sforcezco Java
+
+- Agenda Medica Progra III
+
+- Sokoban c++
+- Pacman c++
+- Laberinto c++
+- aventureros al tren python
+
+- Ilustrador Ensamblador
+- Auto circuitos
+
+- Web Browser WPF
+- Repositorio Java
+
+- Lector de PDF JAVA
+
