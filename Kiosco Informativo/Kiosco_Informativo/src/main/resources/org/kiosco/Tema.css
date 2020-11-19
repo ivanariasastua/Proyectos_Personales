@@ -1,0 +1,79 @@
+.raiz{
+
+}
+
+.boton{
+    -fx-font: normal 16pt "Courier";
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+}
+
+.boton:hover{
+}
+
+.boton_primario{
+    -fx-background-color: #3c74cf;
+}
+
+.boton_secundario{
+
+}
+
+.boton_terceario{
+
+}
+
+.boton_marco{
+    -fx-font: bold 16pt "Arial";
+    -fx-min-width: 45px;
+    -fx-min-height: 45px;
+    -fx-max-height: 45px;
+    -fx-max-width: 45px;
+    -fx-background-color: transparent;
+    -fx-opacity: 0.8;
+    -fx-text-fill: black;
+}
+
+.boton_marco:hover{
+    -fx-background-color: #babdc2;
+}
+
+.boton_cerrar:hover{
+    -fx-background-color: #b55757;
+}
+
+.boton_minimizar{
+}
+
+.titulo_primario{
+    -fx-font: bold 30px "Bell MT";
+    -fx-alignment: CENTER;
+}
+
+/*
+    MENU CSS
+*/
+
+#imvLogo{
+    -fx-image:url('Logo.png');
+}
+
+#imvTextos{
+    -fx-image:url('text-format.png');
+}
+
+#imvImagenes{
+     -fx-image:url('image.png');
+}
+
+#imvVideos{
+    -fx-image:url('video.png');
+}
+
+#imvYoutube{
+    -fx-image:url('youtube.png');
+}
+
+#imvPresentar{
+    -fx-image:url('presentation.png');
+}
